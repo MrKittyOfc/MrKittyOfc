@@ -6,7 +6,7 @@
 #### Visual Company
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 #### Working with:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cal77777&layout=compact)](https://github.com/VisualRoblox/Roblox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cal77777&layout=compact&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 #### Github Stats
 <div class="card">
   <picture>
