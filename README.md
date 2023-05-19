@@ -12,8 +12,10 @@
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=MrKittyOfc&repo=github-readme-stats&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=MrKittyOfc&repo=UI-Libraries/Visual UI Library" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=MrKittyOfc&repo=UI-Libraries/Visual%20UI%20Library" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <a href="https://github.com/MrKittyOfc/UI-Libraries/Visual%20UI%20Library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKittyOfc&repo=UI-Libraries/Visual%20UI%20Library" alt="Visual UI Library" />
+  </a>
 </picture>
 
 
