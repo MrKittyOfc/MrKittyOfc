@@ -17,13 +17,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MrKittyOfc&show_icons=true" alt="MrKittyOfc's GitHub stats" />
   </picture>
 </div>
-<div class="card">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent" alt="Top Langs" />
-  </picture>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
