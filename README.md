@@ -2,10 +2,10 @@
 #### I am GitHub Readme Generator's creator
 
 ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 
+#### Visual Company
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-#### I am GitHub Readme Generator's creator
+#### Github Stats
 <div class="card">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=MrKittyOfc&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
