@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Arian
 #### I am GitHub Readme Generator's creator
 
 <div style="display: flex; justify-content: center;">
@@ -11,7 +11,8 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=" https://github-readme-stats.vercel.app/api?username=MrKittyOfc&show_icons=true&theme=transparent" />
+  <img align="center" src="
+                           ttps://github-readme-stats.vercel.app/api?username=MrKittyOfc&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
