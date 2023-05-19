@@ -4,27 +4,27 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 
-<div style="text-align: left;">
-  <div style="display: flex; flex-direction: column;">
+<div class="container">
+  <div class="card">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
     </picture>
-    <div style="text-align: left;">
+  </div>
+  <div class="card">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" alt="Anurag's GitHub stats" />
     </picture>
-      <div style="text-align: left;">
+  </div>
+  <div class="card">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Langs" />
     </picture>
-  </div>
-</div>
   </div>
 </div>
 
