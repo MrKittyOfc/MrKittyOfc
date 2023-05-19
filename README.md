@@ -15,7 +15,12 @@
   </picture>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKittyOfc&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)](https://github.com/VisualRoblox/Roblox)
+<div class="card">
+  <a href="https://github.com/VisualRoblox/Roblox">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualRoblox&repo=Roblox&theme=transparent" alt="Top Langs" />
+  </a>
+</div>
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
