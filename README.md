@@ -3,7 +3,7 @@
 
 ###### Development:
 
-#### Visual Company
+#### Visual Company:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 #### Roblox Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cal77777&layout=compact&theme=transparent)](https://github.com/VisualRoblox/Roblox)
