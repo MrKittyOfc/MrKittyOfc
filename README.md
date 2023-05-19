@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Arturs
 
 #### Visual Company
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=dark)](https://github.com/VisualRoblox/Roblox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 #### Github Stats
 <div class="card">
   <picture>
