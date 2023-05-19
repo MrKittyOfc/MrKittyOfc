@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Arian
-#### I am GitHub Readme Generator's creator
-
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is MrKitty
+#### I am a Web / Roblox Developer.
 
 #### Visual Company
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
