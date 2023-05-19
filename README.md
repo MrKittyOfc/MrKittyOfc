@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKittyOfc&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)](https://github.com/VisualRoblox/Roblox)
-
+</div>
 #### Github Stats
 <div class="card">
   <picture>
