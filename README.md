@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 
-<div align="center">
+<div style="text-align: left;">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
