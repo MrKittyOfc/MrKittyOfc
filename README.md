@@ -6,9 +6,6 @@
 #### Visual Company
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VisualRoblox&repo=Roblox&theme=transparent)](https://github.com/VisualRoblox/Roblox)
 
-#### Visual Theme
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrKittyOfc&repo=Visual-Theme&theme=transparent)](https://github.com/MrKittyOfc/Visual-Theme)
-
 #### Github Stats
 <div class="card">
   <picture>
