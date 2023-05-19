@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MrKittyOfc&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
   </div>
   <div style="flex: 50%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrKittyOfc&theme=transparent" alt="Harlok's wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrKittyOfc&theme=transparent" alt="Harlok's wakatime stats">
   </div>
 </div>
 
