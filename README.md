@@ -15,7 +15,7 @@
 </div>
   <div class="card">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKittyOfc&hide_progress=true&theme=transparent" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Langs" />
     </picture>
